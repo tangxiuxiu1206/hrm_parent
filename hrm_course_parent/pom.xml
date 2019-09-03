@@ -9,12 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>hrm_basic_parent</artifactId>
+    <artifactId>hrm_course_parent</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>hrm_basic_util</module>
-        <module>hrm_basic_fastdfs_interface</module>
-        <module>hrm_basic_fastdfs_service_9003</module>
+        <module>hrm_course_interface</module>
+        <module>hrm_course_service</module>
     </modules>
 
 
